@@ -1,0 +1,11 @@
+C:\Users\victo\Documents\COOP\Projects\Csharp-project\Csharp-project\bin\Release\netcoreapp2.1\Csharp-project.deps.json
+C:\Users\victo\Documents\COOP\Projects\Csharp-project\Csharp-project\bin\Release\netcoreapp2.1\Csharp-project.runtimeconfig.json
+C:\Users\victo\Documents\COOP\Projects\Csharp-project\Csharp-project\bin\Release\netcoreapp2.1\Csharp-project.runtimeconfig.dev.json
+C:\Users\victo\Documents\COOP\Projects\Csharp-project\Csharp-project\bin\Release\netcoreapp2.1\Csharp-project.dll
+C:\Users\victo\Documents\COOP\Projects\Csharp-project\Csharp-project\bin\Release\netcoreapp2.1\Csharp-project.pdb
+C:\Users\victo\Documents\COOP\Projects\Csharp-project\Csharp-project\obj\Release\netcoreapp2.1\Csharp-project.csprojResolveAssemblyReference.cache
+C:\Users\victo\Documents\COOP\Projects\Csharp-project\Csharp-project\obj\Release\netcoreapp2.1\Csharp-project.csproj.CoreCompileInputs.cache
+C:\Users\victo\Documents\COOP\Projects\Csharp-project\Csharp-project\obj\Release\netcoreapp2.1\Csharp-project.AssemblyInfoInputs.cache
+C:\Users\victo\Documents\COOP\Projects\Csharp-project\Csharp-project\obj\Release\netcoreapp2.1\Csharp-project.AssemblyInfo.cs
+C:\Users\victo\Documents\COOP\Projects\Csharp-project\Csharp-project\obj\Release\netcoreapp2.1\Csharp-project.dll
+C:\Users\victo\Documents\COOP\Projects\Csharp-project\Csharp-project\obj\Release\netcoreapp2.1\Csharp-project.pdb
